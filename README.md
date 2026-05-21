@@ -251,5 +251,3 @@ Para rodar o projeto:
 Mantive as páginas já existentes no projeto e adicionei/editei as páginas `Home`, `Sobre` e `Contato` para atender à Prática 6, utilizando os dados de **Luan Robert - GES440**.
 
 ---
-
-[Voltar ao início](../../README.md)
