@@ -248,6 +248,12 @@ Para rodar o projeto:
 
 ## Observação
 
-Mantive as páginas já existentes no projeto e adicionei/editei as páginas `Home`, `Sobre` e `Contato` para atender à Prática 6, utilizando os dados de **Luan Robert - GES440**.
+Mantive as páginas já existentes no projeto e adicionei/editei as páginas da Prática 6:
+
+- `Home` (`index.html`): página inicial personalizada com introdução ao Flask.
+- `Sobre` (`about.html`): página com informações sobre a aplicação.
+- `Contato` (`contact.html`): página adicionada com os dados de contato.
+
+As páginas foram personalizadas com os dados de **Luan Robert - GES440**.
 
 ---
