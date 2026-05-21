@@ -237,18 +237,18 @@ Para rodar o projeto:
 
 ## Exercício Proposto
 
-1. Personalize seus templates HTML Contendo seu nome e matricula.
-2. Adicione uma nova pagina "contact" contendo inforações de contato ficticias.
-2. Execute utilizando o docker compose.
-3. Tire print dos logs do container frontend.
-4. Tire print das `três` paginas HTML.
-5. Suba os prints solicitados na `pratica-5/img`.
+1. Personalize seus templates HTML contendo seu nome e matrícula.
+2. Adicione uma nova página "contact" contendo informações de contato.
+3. Execute utilizando o docker compose.
+4. Tire print dos logs do container frontend.
+5. Tire print das `três` páginas HTML.
+6. Suba os prints solicitados na `pratica-5/img`.
 
 ---
 
 ## Observação
 
-Foram mantidas as páginas já existentes no projeto e, para atender à Prática 5, foram adicionadas/editadas as páginas `Home`, `Sobre` e `Contato` com os dados de **Luan Robert - GES440**.
+Mantive as páginas já existentes no projeto e adicionei/editei as páginas `Home`, `Sobre` e `Contato` para atender à Prática 5, utilizando os dados de **Luan Robert - GES440**.
 
 ---
 
