@@ -1,0 +1,24 @@
+services:
+  backend:
+    build: ./backend
+    environment:
+      - PGURL=postgres://postgres:postgres@db:5432/professores
+      - INIT_SQL=db/init.sql
+    depends_on:
+      - db
+
+  db:
+    image: postgres
+    restart: always
+    environment:
+      POSTGRES_USER: postgres
+      POSTGRES_PASSWORD: postgres
+      POSTGRES_DB: professores
+
+  frontend:
+    build: ./frontend
+    restart: always
+    ports:
+      - "38173:3000"
+    depends_on:
+      - backend
